@@ -12,7 +12,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://localhost:4000/',
+  baseUrl: 'http://nodedemo-mascapp.rhcloud.com/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
